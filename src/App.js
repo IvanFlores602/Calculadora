@@ -28,7 +28,6 @@ function App() {
         <input type = "text"
         value = { result }/>
         </form>
-
         <div className = "keypad">
         <button className = 'highlight' onClick = { clear } id = "clear" > Clear </button> 
         <button className = 'highlight'
